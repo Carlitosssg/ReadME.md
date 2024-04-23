@@ -28,5 +28,4 @@ I'm a **[Discord](https://discord.com/) Bot developer** in **JavaScript** with N
 
 <a href="https://github.com/Carlitosssg"><img src="https://komarev.com/ghpvc/?username=Carlitosssg" alt="Profile Views"/></a>
 
-| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/816475179105648692?bg=1f1f1f&borderRadius=5px"> |
-|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+<img alt="Discord Status" src="https://lanyard.cnrad.dev/api/816475179105648692?bg=1f1f1f&borderRadius=5px">
