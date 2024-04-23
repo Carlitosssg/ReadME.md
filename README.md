@@ -1,7 +1,9 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Carlitossssg" src="https://avatars.githubusercontent.com/u/89122007?v=4">
+
 # Carlitossssg
 
 <div>
-  <a href="https://twitter.com/MateoTem_"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/carlitoss_sg" alt="Twitter Badge"/></a>
+  <a href="https://twitter.com/carlitoss_sg"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
   <a href="https://discord.com/users/816475179105648692"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/816475179105648692" alt="Discord Badge"/></a>
 <a href="https://paypal.me/carlossilva.ccs"><img src="https://img.shields.io/badge/-PayPal-000000?style=flat-square&labelColor=000000&logo=paypal&logoColor=white&link=https://paypal.me/carlossilva.ccs" alt="PayPal Badge"/></a>
 </div>
