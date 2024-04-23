@@ -1,5 +1,3 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Carlitossssg" src="https://avatars.githubusercontent.com/u/79017590?v=4">
-
 # Carlitossssg
 
 <div>
